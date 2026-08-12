@@ -9,4 +9,4 @@ Features:
 - Responsive design
 - Built with HTML, CSS and JavaScript
 
-Made by a high schooler for fun
+Made by a high schooler(Mohammad Abid) for fun
